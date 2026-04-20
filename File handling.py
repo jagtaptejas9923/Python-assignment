@@ -1,3 +1,4 @@
+
 # 1. Writing to a file (creates file if not exists)
 file = open("example.txt", "w")
 file.write("Hello, this is the first line.\n")
